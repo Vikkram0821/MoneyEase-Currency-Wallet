@@ -1,7 +1,7 @@
 # MoneyEase-Currency-Wallet
 MoneyEase application, a versatile money transfer wallet! 💸
 
-APPLICATION SITE LINK:
+APPLICATION SITE LINK: (Responsive for PC/LAPTOP only)
 
 https://vikkram0821.github.io/MoneyEase-Currency-Wallet/
 
